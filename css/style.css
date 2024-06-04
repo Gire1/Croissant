@@ -1,10 +1,21 @@
 body{
   background-color: blueviolet;  
+  margin-top: 30px;
 }
 h1{
     text-align: center;
     color: white;
 }
 a{
-    color: red;
+    color:red;
+}
+.links{
+    display:inline-flex;
+    justify-content: space-between;
+    
+    
+}
+img{
+    display: block;
+    width: 100 auto;
 }
