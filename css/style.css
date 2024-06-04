@@ -1,21 +1,27 @@
 body{
-  background-color: blueviolet;  
+  background-color:yellow;  
   margin-top: 30px;
 }
 h1{
     text-align: center;
     color: white;
 }
-a{
+div{
+    color:rgb(255, 60, 0);
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+   .links{
     color:red;
-}
-.links{
-    display:inline-flex;
-    justify-content: space-between;
+   } 
     
-    
-}
+
 img{
     display: block;
     width: 100 auto;
+}
+P{
+    text-align: center;
+
 }
