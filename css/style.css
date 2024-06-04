@@ -10,7 +10,8 @@ div{
     color:rgb(255, 60, 0);
     text-align: center;
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
+
 }
    .links{
     color:red;
@@ -19,7 +20,10 @@ div{
 
 img{
     display: block;
-    width: 100 auto;
+    width: 60%;
+    border-radius:8px;
+    justify-content:center;
+    margin: auto;
 }
 P{
     text-align: center;
